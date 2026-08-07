@@ -4,6 +4,7 @@ import type { Timestamp } from 'firebase/firestore'
  * Example feature data model.
  * Replace this with your actual feature types.
  * Use the /new-feature skill to scaffold new features.
+ * adding a new line for a test
  */
 export interface ExampleItem {
   id: string
